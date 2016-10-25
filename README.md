@@ -8,7 +8,7 @@
   
    4, submit job: qsub yuorjob.sh 
    
-   
+   ***
  
  
   Before you start....pacbio smrtanalysis installation
