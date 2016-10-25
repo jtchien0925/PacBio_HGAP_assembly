@@ -9,6 +9,8 @@
    4, submit job: qsub yuorjob.sh 
    
    
+ 
+ 
  # Before you start....pacbio smrtanalysis installation
    
    1, http://www.pacb.com/wp-content/uploads/2015/09/SMRT-Analysis-Software-Installation-v2.3.0.pdf
